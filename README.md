@@ -1,2 +1,4 @@
-# DamianQualshy
- 
+[![DamianQualshy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamianQualshy&theme=dark&show_icons=true&bg_color=00000000&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamianQualshy&theme=dark&layout=compact&show_icons=true&bg_color=00000000&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![DamianQualshy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamianQualshy&theme=default&show_icons=true&bg_color=00000000&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamianQualshy&theme=default&layout=compact&show_icons=true&bg_color=00000000&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
